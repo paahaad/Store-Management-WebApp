@@ -5,11 +5,11 @@ Application is three-tier architecture for keeping track of stock, order details
 
 ## Architecture
 
-![image info](../images/Architechture.png)
+![image info](../Images/Architechture.png)
 
 ## Module Development
 
-![image info](../images/ModuleDevelopment.png)
+![image info](../Images/ModuleDevelopment.png)
 
 <style type="text/css">
     img {
