@@ -10,9 +10,3 @@ There are 4 tables:
 ## Tables
 
 ![image info](../Images/DatabaseTables.png)
-
-<style type="text/css">
-    img {
-        width: 500px;
-    }
-</style>
