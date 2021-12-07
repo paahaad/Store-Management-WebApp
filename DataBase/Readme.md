@@ -9,7 +9,7 @@ There are 4 tables:
 
 ## Tables
 
-![image info](../images/DatabaseTables.png)
+![image info](../Images/DatabaseTables.png)
 
 <style type="text/css">
     img {
